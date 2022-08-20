@@ -1,0 +1,53 @@
+p {
+color: brown;
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+}
+a:link {
+color: ocher;
+}
+
+a:visted {
+color: goldenrod;
+}
+
+#tab p {
+color: orange;
+font-family: Berlin Sans FB Demi, Times New Roman;
+font-weight: bolder;
+}
+
+.enclosure1 {
+font-size: 1em;
+font-variant: small-caps;
+color: bronze;
+}
+
+#link{
+font-weight: bold;
+font-size: larger;
+font-style: oblique;
+color: sienna;
+}
+
+table {
+color: coral;
+font-weight: bold;
+border-collapse: collapse;
+border: 1px solid #FF6666;
+text-align: center;
+
+}
+th {
+   border: 2px solid #FF6666;
+   border-right: 1px solid #FF6666;
+   border-left: 1px solid #FF6666;
+   background: #FFCCCC;
+}
+td {
+text-align: top;
+padding: 4px;
+background: mistyrose;
+border-right: 1px solid #FF6666;
+border-left: 1px solid #FF6666;
+}
