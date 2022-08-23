@@ -51,3 +51,23 @@ background: mistyrose;
 border-right: 1px solid #FF6666;
 border-left: 1px solid #FF6666;
 }
+
+.image {
+object-fit: fill;
+object-position: 50% 50%;
+}
+
+#img1 {
+width: 500px;
+height: 350px;
+}
+
+#img2 {
+width: 40%;
+height: 30%;
+}
+
+#img4 {
+width: 50%;
+height: 50%;
+}
